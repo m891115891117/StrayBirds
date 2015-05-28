@@ -123,7 +123,7 @@ highlighter: pygments
 title: ABC
 description: AABBCCC,BBCCABC
 theme: modernist
-disqusname: 123
+disqusname: mapengze
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
