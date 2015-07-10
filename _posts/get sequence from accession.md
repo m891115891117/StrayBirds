@@ -1,4 +1,5 @@
---when have a list of accession number, we can auto get seq using Bioperl   
+--
+#when have a list of accession number, we can auto get seq using Bioperl   
     
     #!/usr/bin/perl -w
     use Bio::DB::GenBank;
