@@ -1,3 +1,9 @@
+---
+layout: post
+title: R graphical
+category: study
+comments: true
+---
 # a good web for draw R graphical
     
     http://rgm3.lab.nig.ac.jp/RGM/R_image_list?page=693&init=true
