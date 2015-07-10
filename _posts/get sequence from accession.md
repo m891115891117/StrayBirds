@@ -1,4 +1,9 @@
---
+---
+layout: post
+title: aoto get seq by accession number
+category: study
+comments: true
+---
 #when have a list of accession number, we can auto get seq using Bioperl   
     
     #!/usr/bin/perl -w
